@@ -1,15 +1,15 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+title: # teaching
+description: # Materials for courses you taught. Replace this text with your description.
 nav: true
 nav_order: 5
 ---
 
 {% assign courses = site.data.courses %}
 
-## Instructors
+## <b>Instructor</b>
 
 {% for course in courses %}
 {% if course.category == "Instructor" %}
@@ -21,7 +21,7 @@ nav_order: 5
 {% endif %}
 {% endfor %}
 
-## Teaching Assistants
+## <b>Teaching Assistant</b>
 
 {% for course in courses %}
 {% if course.category == "Teaching Assistant" %}
