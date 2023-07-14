@@ -9,12 +9,26 @@ nav_order: 5
 
 {% assign courses = site.data.courses %}
 
+## Instructors
+
 {% for course in courses %}
-## {{ course.name }}
+{% if course.category == "Instructor" %}
+### {{ course.name }}
 
-**Course Code:** {{ course.code }}  
 **University:** {{ course.university }}
+**Description:** {{ course.description }}
 
-{{ course.description }}
+{% endif %}
+{% endfor %}
 
+## Teaching Assistants
+
+{% for course in courses %}
+{% if course.category == "Teaching Assistant" %}
+### {{ course.name }}
+
+**University:** {{ course.university }}
+**Description:** {{ course.description }}
+
+{% endif %}
 {% endfor %}
