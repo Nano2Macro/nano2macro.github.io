@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://zadehsey.github.io/sitemap.xml
+Sitemap: https://nano2macro.github.io/sitemap.xml
