@@ -1,9 +1,35 @@
-- name: Mechanics
+- name: Introduction to Mechanical and Industrial Engineering (MIE191)
   category: Instructor
   university: University of Toronto
-  description: Good
+  description: | 
+    - Mandatory seminar course for first-year Mechanical and Industrial Engineering students
+    - Responsible for constructing the syllabus and course modules
+    - Providing an overview of research in Mechanical and Industrial Engineering
+    - Conducting lectures for 150+ students
+    - Inviting guest speakers from faculty members, industrial partners, and alumni
+    
+- name: Molecular Simulation of Materials 
+  category: Teaching Assistant
+  university: Carnegie Mellon University
+  description: TBD
 
-- name: Intro to Mechanics
+- name: Engineering Analysis 
   category: Teaching Assistant
   university: University of Toronto
-  description: Good
+  description: TBD
+
+- name: Differential equations
+  category: Teaching Assistant
+  university: University of Toronto
+  description: TBD
+
+- name: Modeling with Differential and Difference Equations
+  category: Teaching Assistant
+  university: University of Toronto
+  description: TBD
+
+
+- name: Dynamics
+  category: Teaching Assistant
+  university: University of Toronto
+  description: TBD
