@@ -7,6 +7,14 @@ nav: true
 nav_order: 5
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+{% assign courses = site.data.courses %}
 
-Organize your courses by years, topics, or universities, however you like!
+{% for course in courses %}
+## {{ course.name }}
+
+**Course Code:** {{ course.code }}  
+**University:** {{ course.university }}
+
+{{ course.description }}
+
+{% endfor %}
