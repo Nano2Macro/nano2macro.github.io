@@ -1,34 +1,9 @@
----
-layout: page
-permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
-nav: true
-nav_order: 5
----
+- name: Mechanics
+  category: Instructor
+  university: University of Toronto
+  description: Good
 
-{% assign courses = site.data.courses %}
-
-## Instructors
-
-{% for course in courses %}
-### {{ course.name }}
-
-**Course Code:** {{ course.code }}  
-**University:** {{ course.university }}
-
-{{ course.description }}
-
-{% endfor %}
-
-## Teaching Assistants
-
-{% for course in courses %}
-### {{ course.name }}
-
-**Course Code:** {{ course.code }}  
-**University:** {{ course.university }}
-
-{{ course.description }}
-
-{% endfor %}
+- name: Intro to Mechanics
+  category: Teaching Assistant
+  university: University of Toronto
+  description: Good
