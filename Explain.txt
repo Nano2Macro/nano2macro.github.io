@@ -1,0 +1,1 @@
+- To change the profile picture: assets -> img -> upload the new one with name "prof_pic.jpg"
