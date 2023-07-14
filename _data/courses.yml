@@ -1,0 +1,11 @@
+- name: Course 1
+  code: CODE1
+  university: University 1
+  description: Description of Course 1
+  
+- name: Course 2
+  code: CODE2
+  university: University 2
+  description: Description of Course 2
+  
+# Add more courses as needed
