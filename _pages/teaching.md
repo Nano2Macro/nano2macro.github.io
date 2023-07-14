@@ -15,7 +15,7 @@ nav_order: 5
 {% if course.category == "Instructor" %}
 ### {{ course.name }}
 
-**University:** {{ course.university }}
+**Institution:** {{ course.university }}<br>
 **Description:** {{ course.description }}
 
 {% endif %}
@@ -27,7 +27,7 @@ nav_order: 5
 {% if course.category == "Teaching Assistant" %}
 ### {{ course.name }}
 
-**University:** {{ course.university }}
+**Institution:** {{ course.university }}<br>
 **Description:** {{ course.description }}
 
 {% endif %}
