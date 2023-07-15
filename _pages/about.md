@@ -2,8 +2,9 @@
 layout: about
 title: about
 permalink: /
-<!-- subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc. -->
 subtitle: [Carnegie Mellon University](https://www.cmu.edu/) & [University of Toronto ](https://www.utoronto.ca/)
+
+<!-- subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc. -->
 
 profile:
   align: right
