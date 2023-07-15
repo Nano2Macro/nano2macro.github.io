@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: "<a href='https://www.cmu.edu/'>Carnegie Mellon University</a> & <a href='https://www.utoronto.ca/'>University of Toronto</a>. 
+subtitle: "<a href='https://www.cmu.edu/'>Carnegie Mellon University</a> & <a href='https://www.utoronto.ca/'>University of Toronto</a>." 
 
 <!-- subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc. -->
 
