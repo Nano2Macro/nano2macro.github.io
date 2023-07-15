@@ -2,10 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: |
-  [Carnegie Mellon University](https://www.cmu.edu/) &
-  [University of Toronto](https://www.utoronto.ca/)
-
+subtitle: "<a href='https://www.cmu.edu/'>Carnegie Mellon University</a> & <a href='https://www.utoronto.ca/'>University of Toronto</a>. 
 
 <!-- subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc. -->
 
@@ -24,7 +21,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I'm a Mechanical Engineer, Sustainable Energy Researcher, and DEI Advocate. I am currently pursuing a PhD in Mechanical Engineering from Carnegie Mellon University. My current research involves utilizing computer simulation and physics-informed machine learning techniques to construct design parameters for novel thermal management of next generation of high power density nanoscale technologies. Also, I conducted the first analysis of the full environmental footprints (carbon, water, and land) of Bitcoin mining and led an international study to investigate the extent of COVID-19 impact on their lives and research, based
+I'm a Mechanical Engineer, Sustainable Energy Researcher, and DEI Advocate.
+
+I am currently pursuing a PhD in Mechanical Engineering from Carnegie Mellon University. My current research involves utilizing computer simulation and physics-informed machine learning techniques to construct design parameters for novel thermal management of next generation of high power density nanoscale technologies. Also, I conducted the first analysis of the full environmental footprints (carbon, water, and land) of Bitcoin mining and led an international study to investigate the extent of COVID-19 impact on their lives and research, based
 on their career stage, gender, marital status, etc; revealing early evidence of disproportional impact on female researchers and parents.
 
 I have authored five publications, presented and contributed to 14 conferences (including two best poster awards) and 3 more pending publications.
