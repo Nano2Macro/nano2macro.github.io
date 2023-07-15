@@ -1,3 +1,5 @@
 - To change the profile picture: assets -> img -> upload the new one with name "prof_pic.jpg"
 
 - To change the teaching tab, you can edit the format of the page in: _pages -> teaching.md and the material is in _data -> courses.yml
+
+- To include or remove any page go to pages and in the template change "nav: false # true"
