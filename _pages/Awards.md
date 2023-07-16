@@ -8,7 +8,7 @@ nav_order: 6
 
 # Awards
 
-{% assign awards = site.data.awards %}
+{% assign awards = site.data.Awards %}
 
 {% for award in awards %}
 - Name: {{ award.name }}
