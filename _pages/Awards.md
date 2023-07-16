@@ -11,6 +11,6 @@ nav_order: 6
 {% assign awards = site.data.awards %}
 
 {% for award in awards %}
-{{ forloop.index }}. {{ award.name }}
-  - Source: {{ award.source }}
+- name: {{ award.name }}
+  source: {{ award.source }}
 {% endfor %}
