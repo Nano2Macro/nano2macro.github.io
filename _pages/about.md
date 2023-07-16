@@ -23,12 +23,9 @@ social: true  # includes social icons at the bottom of the page
 
 I'm a Mechanical Engineer, Sustainable Energy Researcher, and DEI Advocate.
 
-I am currently pursuing a PhD in Mechanical Engineering from Carnegie Mellon University. My current research involves utilizing computer simulation and physics-informed machine learning techniques to construct design parameters for novel thermal management of next generation of high power density nanoscale technologies. Also, I conducted the first analysis of the full environmental footprints (carbon, water, and land) of Bitcoin mining and led an international study to investigate the extent of COVID-19 impact on their lives and research, based
-on their career stage, gender, marital status, etc; revealing early evidence of disproportional impact on female researchers and parents.
+My research encompasses a range of areas such as computational nanoscale mechanics, transport phenomena in soft and active matter, and efficient molecular simulation. Although these are my primary focus areas, my interests and experience extend further. I have been involved in experimental research in nanoscale heat transfer, material discovery and characterization, and nanofabrication. Additionally, I've delved into energy policy, Diversity, Equity, and Inclusion (DEI), and equity in education.
 
-I have authored five publications, presented and contributed to 14 conferences (including two best poster awards) and 3 more pending publications.
-
-Prior to my PhD, I completed my MASc. in Mechanical Engineering from the University of Toronto with a CGPA of 4.0/4.0, and my BASc. in Mechanical Engineering (High Honors graduate) with a minor in Sustainability from the same university. 
+Prior to my PhD, I completed my MASc. in Mechanical Engineering from the University of Toronto as an NSERC scholar and Russell A. Reynolds Fellow in Thermodynamics, and my BASc. in Mechanical Engineering (High Honors graduate) with a minor in Sustainability from the same university. 
 
 I am also an advocate for Diversity, Equity, and Inclusion (DEI) and have been involved in several committees and task forces. For instance, I represented more than 7,000 graduate students on the university-wide COVID-19 task force, where I assisted with formalization of communication channels between in-person research tasks; mitigating potential health risks while optimizing research efficiency. I have also led efforts on incorporating DEI training into graduate engineering curriculum and for committee members of PhD oral qualification exams (∼40 students/year), and was awarded the Jeremiah Mpagazehe Award for my service and contributions to the graduate student community.
 
