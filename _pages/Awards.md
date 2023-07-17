@@ -6,8 +6,6 @@ nav: true
 nav_order: 6
 ---
 
-# Awards
-
 {% assign awards = site.data.Awards %}
 
 {% for award in awards %}
