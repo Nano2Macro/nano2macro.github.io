@@ -1,7 +1,7 @@
 - name: Introduction to Mechanical and Industrial Engineering (MIE191)
   category: Instructor
   university: University of Toronto
-  description: | 
+  description: | |
     - Mandatory seminar course for first-year Mechanical and Industrial Engineering students
     - Responsible for constructing the syllabus and course modules
     - Providing an overview of research in Mechanical and Industrial Engineering
@@ -12,7 +12,7 @@
   category: Teaching Assistant
   university: Carnegie Mellon University
   description: |
-    The purpose of this course is to introduce students to the principles and practice of molecular simulation. These computational methods are useful for studying a broad range of engineering phenomena with atomic scale resolution, and are essential for investigating small scale systems that are not governed by continuum models (e.g. Navier Stokes, Fourier, Euler Bernoulli, etc.). This course focuses primarily on two major classes of molecular simulation methods: Molecular Dynamics (MD) and Monte Carlo (MC); other techniques for micro and nanoscale simulation are briefly introduced at the end of the semester. 
+    The purpose of this course is to introduce students to the principles and practice of molecular simulation. These computational methods are useful for studying a broad range of engineering phenomena with atomic scale resolution, and are essential for investigating small scale systems that are not governed by continuum models (e.g. Navier-Stokes, Fourier, Euler-Bernoulli, etc.). This course focuses primarily on two major classes of molecular simulation methods: Molecular Dynamics (MD) and Monte Carlo (MC); other techniques for micro and nanoscale simulation are briefly introduced at the end of the semester. 
 
 - name: Engineering Analysis (MIE230)
   category: Teaching Assistant
@@ -31,4 +31,5 @@
 - name: Modeling with Differential and Difference Equations
   category: Teaching Assistant
   university: University of Toronto
-  description: TBD
+  description: |
+    Ordinary differential equations. Equations of first order and first degree. Linear equations of order n. Equations of the second order. Systems of simultaneous equations. Difference equations. Linear control. Forecasting. Business dynamics. Throughout the course: formulating and analyzing differential or difference equation models for real-world problems. The main goal of the course is to learn how to model different phenomena into an Ordinary Differential Equation or a Difference Equation.
