@@ -1,42 +1,29 @@
-- name: Introduction to Mechanical and Industrial Engineering (MIE191)
-  category: Instructor
-  university: University of Toronto
-  description: | 
+- Name: Introduction to Mechanical and Industrial Engineering (MIE191)
+  Category: Instructor
+  University: University of Toronto
+  Description:
     - Mandatory seminar course for first-year Mechanical and Industrial Engineering students
     - Responsible for constructing the syllabus and course modules
     - Providing an overview of research in Mechanical and Industrial Engineering
     - Conducting lectures for 150+ students
     - Inviting guest speakers from faculty members, industrial partners, and alumni
     
-- name: Molecular Simulation of Materials (12-623)
-  category: Teaching Assistant
-  university: Carnegie Mellon University
-  description: The purpose of this course is to introduce students to the principles and practice of molecular simulation. These computational methods are useful for studying a broad range of engineering phenomena with atomic-scale resolution, and are essential for investigating small-scale systems that are not governed by continuum models (e.g. Navier-Stokes, Fourier, Euler-Bernoulli, etc.). This course focuses primarily on two major classes of molecular simulation methods: Molecular Dynamics (MD) and Monte Carlo (MC); other techniques for micro- and nanoscale simulation are briefly introduced at the end of the semester. 
+- Name: Molecular Simulation of Materials (12-623)
+  Category: Teaching Assistant
+  University: Carnegie Mellon University
+  Description: The purpose of this course is to introduce students to the principles and practice of molecular simulation. These computational methods are useful for studying a broad range of engineering phenomena with atomic-scale resolution, and are essential for investigating small-scale systems that are not governed by continuum models (e.g. Navier-Stokes, Fourier, Euler-Bernoulli, etc.). This course focuses primarily on two major classes of molecular simulation methods: Molecular Dynamics (MD) and Monte Carlo (MC); other techniques for micro- and nanoscale simulation are briefly introduced at the end of the semester. 
 
-- name: Engineering Analysis (MIE230)
-  category: Teaching Assistant
-  university: University of Toronto
-  description: This	course	will	introduce	student	to	some	advance	engineering	math,	including	vector	calculus,	multivariate	integration,	
-Laplace	transforms,	Fourier	series	and	complex	numbers
+- Name: Engineering Analysis (MIE230)
+  Category: Teaching Assistant
+  University: University of Toronto
+  Description: This course will introduce students to some advance engineering math, including vector calculus, multivariate integration, Laplace transforms, Fourier series, and complex numbers.
 
-- name: Differential equations (MAT234)
-  category: Teaching Assistant
-  university: University of Toronto
-  description: This is a half year introductory course in differential equations for engineering students.
-Differential equations are of basic importance in engineering because many systems can be
-modelled using differential equations. Understanding the models and the behaviour of the
-solutions can provide useful insights into the problem at hand. The first part of the course
-will focus on the standard methods of solving first and second order ordinary differential
-equations. The second part of the course will develop important techniques of finding general
-solutions for the classical partial differential equations (the wave equation, the diffusion
-equation and Laplace’s equation) in explicit form. Students will be required to be able to
-solve standard computational problems and understand the main concepts, definitions, and
-theorems in each section covered.
+- Name: Differential equations (MAT234)
+  Category: Teaching Assistant
+  University: University of Toronto
+  Description: This is a half-year introductory course in differential equations for engineering students. Differential equations are of basic importance in engineering because many systems can be modeled using differential equations. Understanding the models and the behavior of the solutions can provide useful insights into the problem at hand. The first part of the course will focus on the standard methods of solving first and second-order ordinary differential equations. The second part of the course will develop important techniques for finding general solutions for the classical partial differential equations (the wave equation, the diffusion equation, and Laplace’s equation) in explicit form. Students will be required to be able to solve standard computational problems and understand the main concepts, definitions, and theorems in each section covered.
 
-- name: Modeling with Differential and Difference Equations (MAT231)
-  category: Teaching Assistant
-  university: University of Toronto
-  description: Ordinary differential equations. Equations of first order and first degree. Linear equations of order n.Equations of second order. Systems of simultaneous equations. Difference equations. Linear control.Forecasting. Business dynamics. Throughout the course: formulating and analyzing differential or difference equation models for real-world problems. The main goal of the course is to learn how to model different phenomena into an Ordinary Differential Equation or a Difference Equation.
-
-
-
+- Name: Modeling with Differential and Difference Equations (MAT231)
+  Category: Teaching Assistant
+  University: University of Toronto
+  Description: Ordinary differential equations. Equations of first order and first degree. Linear equations of order n. Equations of the second order. Systems of simultaneous equations. Difference equations. Linear control. Forecasting. Business dynamics. Throughout the course: formulating and analyzing differential or difference equation models for real-world problems. The main goal of the course is to learn how to model different phenomena into an Ordinary Differential Equation or a Difference Equation.
