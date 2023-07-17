@@ -14,15 +14,19 @@
   description: |
     The purpose of this course is to introduce students to the principles and practice of molecular simulation. These computational methods are useful for studying a broad range of engineering phenomena with atomic scale resolution, and are essential for investigating small scale systems that are not governed by continuum models (e.g. Navier Stokes, Fourier, Euler Bernoulli, etc.). This course focuses primarily on two major classes of molecular simulation methods: Molecular Dynamics (MD) and Monte Carlo (MC); other techniques for micro and nanoscale simulation are briefly introduced at the end of the semester. 
 
-- name: Engineering Analysis 
+- name: Engineering Analysis (MIE230)
   category: Teaching Assistant
   university: University of Toronto
-  description: TBD
+  description: |
+    This course will introduce students to some advance engineering math, including vector calculus, multivariate integration, Laplace transforms, Fourier series, and complex numbers.
 
-- name: Differential equations
+
+- name: Differential equations (MAT234)
   category: Teaching Assistant
   university: University of Toronto
-  description: TBD
+  description: |
+    This is a half-year introductory course in differential equations for engineering students. Differential equations are of basic importance in engineering because many systems can be modeled using differential equations. Understanding the models and the behavior of the solutions can provide useful insights into the problem at hand. The first part of the course will focus on the standard methods of solving first and second-order ordinary differential equations. The second part of the course will develop important techniques for finding general solutions for the classical partial differential equations (the wave equation, the diffusion equation, and Laplace’s equation) in explicit form. Students will be required to be able to solve standard computational problems and understand the main concepts, definitions, and theorems in each section covered.
+
 
 - name: Modeling with Differential and Difference Equations
   category: Teaching Assistant
